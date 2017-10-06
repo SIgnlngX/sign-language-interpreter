@@ -29,7 +29,7 @@ See also the list of [contributors](https://github.com/SIgnlngX/Minor-Project/gr
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.</ br>
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
 
 
 
