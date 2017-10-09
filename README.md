@@ -1,5 +1,4 @@
 # sign-language-interpreter
-
 This project is our minor project.
 
 To learn more about this project have a look at [Voice of Silence.pptx](Voice%20of%20Silence.pptx).
@@ -32,4 +31,8 @@ See also the list of [contributors](https://github.com/SIgnlngX/Minor-Project/gr
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
+
+## Credits
+
+Logo created with http://logomakr.com
 
