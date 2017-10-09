@@ -1,6 +1,6 @@
 # sign-language-interpreter
-this project is our minor project. </br>
-to know more about this project have a look at voice of silence ppt.</br>
+This project is our minor project. </br>
+To know more about this project have a look at voice of silence ppt.</br>
 
 ### Prerequisites
 
@@ -31,5 +31,7 @@ See also the list of [contributors](https://github.com/SIgnlngX/Minor-Project/gr
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.</ br>
 
+## Credits
 
+Logo created with http://logomakr.com
 
