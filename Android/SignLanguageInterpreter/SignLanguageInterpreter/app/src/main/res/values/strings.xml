@@ -2,4 +2,9 @@
     <string name="app_name">SignLanguageInterpreter</string>
     <string name="action_connect">connect</string>
     <string name="action_settings">settings</string>
+    <string name="ffmpeg_cmd_hint">command hint</string>
+    <string name="run">run command</string>
+    <string name="ip">ip</string>
+    <string name="device_not_supported">Device not supported</string>
+    <string name="device_not_supported_message">device not supported</string>
 </resources>
