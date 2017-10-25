@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">SignLanguageInterpreter</string>
+    <string name="action_connect">connect</string>
+    <string name="action_settings">settings</string>
 </resources>

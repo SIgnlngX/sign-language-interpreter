@@ -1,0 +1,11 @@
+.gradle/
+.idea/
+SignLanguageInterpreter.iml
+/app/app.iml
+/app/build/
+/build/
+/gradle/
+gradlew
+gradlew.bat
+local.properties
+
