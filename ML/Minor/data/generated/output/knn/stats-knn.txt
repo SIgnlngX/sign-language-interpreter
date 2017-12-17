@@ -1,0 +1,39 @@
+Model used = 'knn'Classifier model details:
+KNeighborsClassifier(algorithm='auto', leaf_size=30, metric='minkowski',
+           metric_params=None, n_jobs=1, n_neighbors=10, p=2,
+           weights='uniform')
+
+Model score:
+0.96586
+
+Classification report:
+             precision    recall  f1-score   support
+
+          A       0.98      0.95      0.96        42
+          B       0.89      1.00      0.94        49
+          C       1.00      1.00      1.00        37
+          D       1.00      0.93      0.97        15
+          E       1.00      1.00      1.00        45
+          F       1.00      0.86      0.93        44
+          G       0.95      1.00      0.97        54
+          H       1.00      0.95      0.97        20
+          I       1.00      1.00      1.00        27
+          K       0.98      1.00      0.99        54
+          L       1.00      1.00      1.00        28
+          M       0.86      0.93      0.90        46
+          N       0.90      0.98      0.94        48
+          O       0.94      0.92      0.93        37
+          P       0.98      0.98      0.98        54
+          Q       1.00      1.00      1.00        19
+          R       0.95      0.98      0.96        41
+          S       0.96      0.92      0.94        59
+          T       1.00      0.93      0.97        45
+          U       0.95      0.95      0.95        19
+          V       1.00      0.93      0.96        14
+          W       1.00      1.00      1.00        22
+          X       1.00      0.97      0.99        40
+          Y       1.00      0.98      0.99        49
+
+avg / total       0.97      0.97      0.97       908
+
+
